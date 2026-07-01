@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0352/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 集諸學頌
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0053.xml
+    old_id: B10n0053
+hash: sha256:1be68f2c67ad65cf3ec4733d828f602af6ba18ac0d1bc83bb5681a1332087617

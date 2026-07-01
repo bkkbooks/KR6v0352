@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR6v0352/v1
+canonical_location: https://kanripo.org/bkk/KR6v0352/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 集諸學頌
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0053.xml
+    old_id: B10n0053
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0352_000.yaml, hash: 'sha256:1be68f2c67ad65cf3ec4733d828f602af6ba18ac0d1bc83bb5681a1332087617'}
+  - {seq: 1, filename: KR6v0352_001.yaml, hash: 'sha256:427cbb6fb155ea87c29e7949e0fd0a9099803be90642b34ae7b81645ac4a33d5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0352_001.markers.yaml, hash: 'sha256:c94b383534849f3eeb6928dc7f41d9a4063733af67afd17a0279bb32d8730073'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0352_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 553
+  label: 集諸學頌　頂禮一切佛菩薩
+  type: juan
+  level: 1
+hash: sha256:ea4312fb0fd2a3e57986d445a16410eb5cab7d137e5a10398decfe304eef36de
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: B

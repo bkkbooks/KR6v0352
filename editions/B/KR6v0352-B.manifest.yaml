@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6v0352/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0352/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 集諸學頌
+  identifiers:
+    krp: KR6v0352
+    cbeta: B10n0053
+    cbeta_old_id: B10n0053
+    authorityid: CA0006137
+    json_key: B0053
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0053.xml
+    old_id: B10n0053
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0352_000-B.yaml, hash: 'sha256:1be68f2c67ad65cf3ec4733d828f602af6ba18ac0d1bc83bb5681a1332087617'}
+  - {seq: 1, filename: KR6v0352_001-B.yaml, hash: 'sha256:43b84e8a11eedd27e153fd69dbcf888ad13503ad9787258c917a3ab8ba2b7a7b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0352_000-B.markers.yaml, hash: 'sha256:d95211c7455fab4c7742b0dec8c289733112138e8a484e03afb538c13e80f23c'}
+  - {seq: 1, role: markers, filename: assets/KR6v0352_001-B.markers.yaml, hash: 'sha256:2b4d99077226c95c3050db87ec3168fb9d71cf82a03067f65c31be24977f0770'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0352_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 553
+  label: 集諸學頌　頂禮一切佛菩薩
+  type: juan
+  level: 1
+hash: sha256:2a417981dad369c0d3a993418a930d27da712bf722bb281115f18bce813828bd
