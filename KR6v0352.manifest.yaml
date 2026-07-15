@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0352/v1
 canonical_location: https://kanripo.org/bkk/KR6v0352/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 集諸學頌
   source:
@@ -14,10 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6v0352_000.yaml, hash: 'sha256:1be68f2c67ad65cf3ec4733d828f602af6ba18ac0d1bc83bb5681a1332087617'}
-  - {seq: 1, filename: KR6v0352_001.yaml, hash: 'sha256:43b84e8a11eedd27e153fd69dbcf888ad13503ad9787258c917a3ab8ba2b7a7b'}
+  - {seq: 1, filename: KR6v0352_001.yaml, hash: 'sha256:3637a103706fcf540b09017fa40cf8d33343a01d49a5853efea489b429b4c47f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0352_000.markers.yaml, hash: 'sha256:d93b7dd38de5df3a5bc1cb800536feac1c28557aa553af5b18bcde9f5c11e457'}
-  - {seq: 1, role: markers, filename: assets/KR6v0352_001.markers.yaml, hash: 'sha256:f6e2b2a1ee51a94e95194b7a324e07523ac6d6593e38b9bde651d3a603dd70cc'}
+  - {seq: 1, role: markers, filename: assets/KR6v0352_001.markers.yaml, hash: 'sha256:c5680da444bf6b67cc87e57e3662457c335fd77c32c4c81d82e17b3d79151f10'}
 table_of_contents:
 - ref:
     seq: 1
@@ -29,6 +29,9 @@ table_of_contents:
   label: 集諸學頌　頂禮一切佛菩薩
   type: juan
   level: 1
-hash: sha256:5dccc7167e33a95af5545e37026dac2bce50739ebf3b545f67130ad5572f2ea9
+hash: sha256:bdb9b30d3a5c54738096e62f8b9081468196e02f911ad864b8406db950260ce7
 editions:
 - short: B
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
